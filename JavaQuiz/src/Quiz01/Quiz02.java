@@ -41,6 +41,5 @@ public class Quiz02 {
 		System.out.println(q);
 		System.out.println(q%5 == 0 ? "5의 배수입니다" : "5의 배수가 아닙니다");
 		
-		
 	}
 }

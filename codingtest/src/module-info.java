@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JavaBasic {
+module codingtest {
 }
