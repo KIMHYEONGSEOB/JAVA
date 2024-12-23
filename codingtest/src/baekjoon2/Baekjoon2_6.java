@@ -11,34 +11,19 @@ public class Baekjoon2_6 {
         StringTokenizer tokenizer = new StringTokenizer(s);    
         int a = Integer.parseInt(tokenizer.nextToken());
         int b = Integer.parseInt(tokenizer.nextToken());
-
+        //b와 c를 더해줌
         b += c;
         
-        if(b>60) {
-        	a += b/60;
-        	b = b%60;
+        //b가 60 이상일 경우
+        if(b>=60) {
+        	a += b/60;//a에 b를 60으로 나눈 몫을 대입
+        	b = b%60; //b에는 나머지를대입
+        }
+        //a가 24 이상이면
+        if(a>=24) { 
+        	a= a%24; //a에 24를 나눈 나머지를 저장
         }
         
-        if(a>23) {
-        	a= a%24;
-        }
-        
-//        //23시까지의 정수,
-//        //59분까지의 정수,
-//        //23시 59분에서 1분이 지나면 0시 0분
-//        if(b+c<60){1
-//        	b += c;
-//        }
-//        //분과 분이 60이 넘어가면 시간을 하나 올려줌
-//        else if(++a<24){
-//        	a +=((b+c)/60);
-//        	b = ((b+c)%60);	
-//        }
-//        else {
-//        	a= -1;
-//        	a +=((b+c)/60);
-//        	b = ((b+c)%60);	
-//        }
         System.out.println(a+" "+b);
 	}
 }
