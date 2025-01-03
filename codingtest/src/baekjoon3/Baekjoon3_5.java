@@ -6,13 +6,13 @@ public class Baekjoon3_5 {
 
 	public static void main(String[] args) {
 		
-		Scanner scanner = new Scanner(System.in);
-		int n = (Integer.parseInt(scanner.nextLine()))/4;
-		String l;
-		for(int i = 0 ; i < n ; i++) {
+		Scanner scan = new Scanner(System.in);
+		int n = scan.nextInt();
+		
+		for(int i = 0 ; i < n ; i+=4) {
 			System.out.print("long ");
 		}
-		System.out.print("int");
+		System.out.println("int");
 		
 	}
 }

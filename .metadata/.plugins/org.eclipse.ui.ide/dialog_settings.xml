@@ -20,13 +20,14 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\김형섭\Desktop\javacode1.zip"/>
 			<item value="C:\Users\김형섭\Desktop\javacode.zip"/>
 		</list>
 		<section name="ExternalProjectImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="12"/>
-			<item key="DIALOG_Y_ORIGIN" value="338"/>
+			<item key="DIALOG_X_ORIGIN" value="68"/>
+			<item key="DIALOG_Y_ORIGIN" value="142"/>
 			<item key="DIALOG_WIDTH" value="525"/>
-			<item key="DIALOG_HEIGHT" value="694"/>
+			<item key="DIALOG_HEIGHT" value="601"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		</section>
 	</section>
