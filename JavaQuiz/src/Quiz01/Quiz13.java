@@ -30,7 +30,5 @@ public class Quiz13 {
 			System.out.print(al);
 		}
 		System.out.println();
-
-		
 	}
 }

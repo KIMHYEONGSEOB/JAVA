@@ -24,8 +24,8 @@ public class ForEx01 {
 		
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
-		for(int i = 1 ; i<10 ; i++) {
-			System.out.println(n+" x " + i + " = " + n*i);
-		}
+		for(int i = 1 ; i<10 ; i++) 
+			System.out.println(n+" x " + i + " = " + n * i);
+		
 	}
 }

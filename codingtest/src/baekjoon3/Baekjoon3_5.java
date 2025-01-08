@@ -13,7 +13,6 @@ public class Baekjoon3_5 {
 			System.out.print("long ");
 		}
 		System.out.println("int");
-		
 	}
 }
 //https://www.acmicpc.net/problem/25314
