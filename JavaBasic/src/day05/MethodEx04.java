@@ -17,6 +17,7 @@ public class MethodEx04 {
 		System.out.println(Arrays.toString(변수명));
 		
 		
+		
 	}
 	//배열을 매개변수로 받는 메서드 모형
 	static void inputArray(int[] arr) {
