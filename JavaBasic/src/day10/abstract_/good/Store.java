@@ -14,9 +14,6 @@ public abstract class Store {
 		return "신비한 과일가게";
 	}
 	
-	public Store() {
-		System.out.println("Store생성자 호출");
-	}
 	
 	public abstract void melon(); //세미콜론 필수!
 	public abstract void orange();

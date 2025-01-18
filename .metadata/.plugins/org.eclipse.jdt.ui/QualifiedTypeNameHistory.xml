@@ -12,10 +12,17 @@
     <fullyQualifiedTypeName name="day04.ArraySwap"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="quiz11.Sorceress"/>
     <fullyQualifiedTypeName name="quiz11.Warrior"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="day10.final_.Constant"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="quiz13.Unit"/>
+    <fullyQualifiedTypeName name="day10.inter.basic3.Printed"/>
+    <fullyQualifiedTypeName name="quiz14.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="quiz14.PayPalPayment"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
 </qualifiedTypeNameHistroy>

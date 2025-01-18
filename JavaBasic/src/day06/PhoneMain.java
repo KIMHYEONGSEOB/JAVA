@@ -18,5 +18,7 @@ public class PhoneMain {
 		Phone white = new Phone("아이폰16프로", "White", 1550000);
 		
 		white.info();
+		
+
 	}
 }
