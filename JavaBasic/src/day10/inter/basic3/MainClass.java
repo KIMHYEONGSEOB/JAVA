@@ -4,9 +4,9 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-//		Lg lg = new Lg();
-//		lg.print("Lg로 실행함");
-//		lg.copy(5);
+		Lg lg = new Lg();
+		lg.print("Lg로 실행함");
+		lg.copy(5);
 		
 		Printed pt = new Samsung(); //new Lg();
 		pt.print("print 실행함");

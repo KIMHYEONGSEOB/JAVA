@@ -29,7 +29,5 @@ public class MainClass {
 		
 		PetHouse.carePet(arr2[0]);
 		PetHouse.carePet(new GoldFish());
-		
-		
 	}
 }
