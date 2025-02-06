@@ -7,8 +7,8 @@ public class SystemEx {
 	public static void main(String[] args) {
 		
 		//다양한 운영체제의 정보를 확인할 수 있음.
-//		Properties properties =System.getProperties();
-//		System.out.println(properties);
+//		Properties properties =;
+		System.out.println(System.getProperties());
 		
 //		new System(); //Syste은 생성자가 private이라 객체 생성이 불가능하다.
 		

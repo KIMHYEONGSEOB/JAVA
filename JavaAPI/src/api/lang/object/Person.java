@@ -12,10 +12,10 @@ public class Person implements Cloneable {
 		return name;
 	}
 
-	@Override
-	public String toString() {
-		return "Person [name=" + name + "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "Person [name=" + name + "]";
+//	}
 
 	//toString - 멤버변수를 문자열로 보여주도록 오버라이딩을 많이한다.
 //	@Override

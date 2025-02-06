@@ -18,7 +18,8 @@ public class MathEx {
 		
 		System.out.println(Math.min(5, 3)); //작은수
 		
-		System.out.println(Math.sqrt(4)); //루트값
+		System.out.println(Math.PI);
+		System.out.println(Math.rint(Math.PI)); //루트값
 		
 		
 	}

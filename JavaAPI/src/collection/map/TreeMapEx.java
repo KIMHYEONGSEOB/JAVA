@@ -14,10 +14,9 @@ public class TreeMapEx {
 		map.put(2, "a");
 		map.put(3, "b");
 		map.put(5, "c");
-		map.put(1, "밥먹자");
-		map.put(4, "밥먹자");
-		map.put(7, "밥먹자");
-		map.put(-1, "밥먹자");
+		map.put(1, "d");
+		map.put(4, "e");
+		
 		
 		System.out.println(map.toString());
 		System.out.println(map.keySet());

@@ -60,7 +60,7 @@ public class ArrayListEx {
 		System.out.println(list.toString());
 		
 		//리스트 요소를 전부 삭제
-		list.clear();
+//		list.clear();
 		System.out.println(list.toString());
 	}
 

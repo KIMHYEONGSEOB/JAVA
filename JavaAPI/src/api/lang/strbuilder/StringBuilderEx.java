@@ -37,6 +37,7 @@ public class StringBuilderEx {
 		System.out.println("문자열: " + result);
 		
 		//거꾸로 뒤집기
-		System.out.println(sb.reverse());
+		sb.reverse();
+		System.out.println(sb);
 	}
 }

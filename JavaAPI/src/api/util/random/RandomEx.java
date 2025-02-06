@@ -17,5 +17,7 @@ public class RandomEx {
 		
 		int b = random.nextInt(10);
 		System.out.println("0~10미만 랜덤수: " + b);
+		
+		System.out.println(random.nextBoolean());
 	}
 }

@@ -15,13 +15,13 @@ public class MainClass {
 		 */
 		Person person = new Person("홍길동");
 		
-		String s = person.toString();
+//		String s = 
 		
-		System.out.println(s);
+		System.out.println(person.toString());
 		
 		Person person2 = new Person("홍길동");
-		boolean b = person.equals(person);
-		System.out.println(b);
+//		boolean b = person.equals(person);
+		System.out.println(person.equals(person));
 		
 		boolean b2 = person.equals(person2);
 		System.out.println(b2);

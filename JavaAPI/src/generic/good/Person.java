@@ -9,8 +9,8 @@ public class Person <T> {//클래스 or 인터페이스에 <타입> 제네릭
 		this.t = t;
 		
 	}
-//	public T getT() {
-//		return T;
-//	}
+	public T getT() {
+		return t;
+	}
 
 }

@@ -51,7 +51,7 @@ public class Baekjoon6_5 {
 //		}
 		
 //		System.out.println(map.toString());
-		System.out.println(max);
+//		System.out.println(max);
 		
 		
 //		Scanner scan = new Scanner(System.in);
